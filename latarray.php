@@ -15,4 +15,5 @@
      }
 
      echo "tambah ke origin/master";
+     echo "\n tambah square";
 ?>

@@ -13,4 +13,6 @@
 		$i++;
 
      }
+
+     echo "tambah ke origin/master";
 ?>
